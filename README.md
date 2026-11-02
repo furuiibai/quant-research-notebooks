@@ -1,4 +1,4 @@
-Personal quantitative finance research & CQF practice implementations.
+Personal quantitative finance research & CFA, FRM, CQF practice implementations.
 
 This repo contains notebooks and Python scripts for quantitative finance study,
 including exotic option pricing, Monte Carlo simulation, alpha mining, backtesting
@@ -13,13 +13,14 @@ quant-research-notebooks/
 ├── alpha_mining/      # Machine learning alpha factor mining
 ├── monte_carlo/       # Monte Carlo pricing for exotic derivatives
 ├── backtest/          # Multi-factor backtest and overfitting validation
-└── portfolio/         # Portfolio construction, optimization & risk metrics
+├── portfolio/         # Portfolio construction, optimization & risk metrics
+└── data/              # Local raw datasets (gitignored)
 ```
 
 
 🧪 Environment
-
 Python 3.10+ Core dependencies: `numpy`, `pandas`, `scipy`, `matplotlib`, `scikit-learn`
 
-> Note: Private research repo, for self-study & CQF practice only.
+> Note: Private research repo, for self-study & CFA/FRM/CQF practice only. Still under active development.
+
 
