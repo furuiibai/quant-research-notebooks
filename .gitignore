@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local datasets & large binary data
+data/
+
+# Local environment / secret config
+.env
+secrets.json
+
