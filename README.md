@@ -13,8 +13,7 @@ quant-research-notebooks/
 ├── alpha_mining/      # Machine learning alpha factor mining
 ├── monte_carlo/       # Monte Carlo pricing for exotic derivatives
 ├── backtest/          # Multi-factor backtest and overfitting validation
-├── portfolio/         # Portfolio construction, optimization & risk metrics
-└── data/              # Local raw datasets (gitignored)
+└── portfolio/         # Portfolio construction, optimization & risk metrics
 ```
 
 
